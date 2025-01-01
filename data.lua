@@ -1,0 +1,1 @@
+-- Este archivo puede quedar vacío ya que no necesitamos definir prototipos

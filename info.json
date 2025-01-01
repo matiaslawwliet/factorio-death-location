@@ -1,0 +1,9 @@
+{
+    "name": "death-location",
+    "version": "1.0.0",
+    "title": "Death Location",
+    "author": "Matias Lawwliet",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Crea una marca temporal en el mapa con la ubicación de la muerte de los jugadores"
+}
